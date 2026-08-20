@@ -1,17 +1,19 @@
-# 🧰 Prerequisites & First-Time Setup
+# 🧰 Prerequisites & Setup
 
-One-time setup for the whole course — do this once, before Class 01, and every `Weekend NN/` project folder from then on works the same way.
+Before getting started, make sure your development environment is ready. These are the basic tools and setup I use for my Python, AI, and Agentic AI projects.
 
-> If you're joining mid-course, this page is also your fastest way to catch up on the environment side without re-reading every class's write-up.
+> This setup is mainly focused on my Python, AI, and Agentic AI learning journey.
 
 ---
 
-## 1. Install Python 3.10+ (course projects pin 3.13)
+## 🐍 Python
 
-Check what you have:
+Make sure Python 3.10 or above is installed.
+
+Check your version:
 
 ```bash
-python3 --version
+python --version
 ```
 
 - If it's below `3.10`, install a current Python from [python.org](https://python.org) or your OS package manager.
