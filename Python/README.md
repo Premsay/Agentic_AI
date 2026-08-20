@@ -1,8 +1,8 @@
 # Must Know
 # For Becomming a AI Engineer you must have strong fundamentals in python.
 
-### Python Basics are there in the [[python_basic.ipynb]]
-### OOPS are in [[python_oops.ipynb]]
+### Python Basics : (./python_basic.ipynb)
+### OOPS are in (./python_oops.ipynb)
  
 
 
